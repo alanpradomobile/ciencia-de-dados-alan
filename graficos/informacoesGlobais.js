@@ -1,0 +1,1 @@
+const url = 'https://raw.githubusercontent.com/alanpradomobile/ciencia-de-dados-alan/refs/heads/main/dados-globais.json';
